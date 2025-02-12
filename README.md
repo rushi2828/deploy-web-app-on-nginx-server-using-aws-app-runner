@@ -1,1 +1,1 @@
-# deploy-web-app-on-nginx-server-using-aws-app-runner
+# 🚀 Deploy a Web App on Nginx Server Using AWS App Runner
